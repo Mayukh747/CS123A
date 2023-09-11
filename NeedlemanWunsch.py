@@ -1,5 +1,6 @@
 import numpy as np
-
+#commit 1
+# amend local
 
 
 def print_mat(mat, seqA, seqB):
